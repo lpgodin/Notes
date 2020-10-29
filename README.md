@@ -1,4 +1,4 @@
-# Repo for Keeping Notes for Various classes at WPI
+# Repo for Keeping Notes on Various classes at WPI
 
 ## Note Explorer
 
