@@ -1,0 +1,19 @@
+title HW 2 Sequence Diagram
+
+participant Actor
+participant Marker
+participant Board
+participant LinkedList
+participant Index
+
+Actor->Marker:create marker
+Marker->Board: locate space
+Board->LinkedList:record location
+LinkedList->Board: location recorded
+Board->Marker: space located
+Marker->Index: Fill in index
+Marker->Actor: marked cell
+Index->Marker: update array
+Marker->Actor: display array
+LinkedList->Actor: print history
+

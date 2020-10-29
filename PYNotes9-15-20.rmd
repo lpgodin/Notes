@@ -1,0 +1,41 @@
+---
+Title: PY/RE2732 Notes 9-15-20
+output: pdf_document
+---
+
+# Basic Principles of Research Ethics
+
+1. Minimizing the risk of harm
+2. Obtaining informed consent
+3. Protecting anonymity
+
+-----------------------------------------
+
+# Institutional Reciew Board (IRB)
+
+* A type of committee that applies research 
+ethics by reviewing the methods proposed for 
+research to ensure that they are ethical
+
+* IRB protocol is very different from personal trust and ethics
+  * IRB protocol and medical jargon can make patients uncomfortable
+* How can we compare ethics as a relationship to ethics in medicine?
+
+# Tom McGoldrick, *'Where is the "Post" in Posttraumatic Stress Disorder?'*
+
+## Military psychiatry
+
+* McGoldrick has to make decisions that involve understanding that the patient may want to do things that cause them harm
+	* McGoldrick had to write letters to say the veteran was not fit to serve again
+* What are the implications of these letters that McGoldrick wrote?
+  * He supported not the client, but the individual that he was working with.
+* Where is the line between professional and personal?
+
+### Misc.
+
+* The train dilemma
+* Ethical dilemmas that you can't really be trained to deal with
+
+# Next Reading: Shana Lessing, "The Wartime Clinic"
+
+

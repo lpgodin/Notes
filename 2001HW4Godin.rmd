@@ -1,0 +1,20 @@
+---
+Title: RBE 2001 HW 4
+output: pdf_document
+---
+# Liam Godin
+# RBE 2001 HW 4
+
+
+## 1.
+
+![]("images/2001HW41.jpg")
+
+![]("images/2001HW4MC1.png")
+
+
+## 2.
+
+![]("images/2001HW42.jpg")
+
+![]("images/2001HW4MC2.PNG")

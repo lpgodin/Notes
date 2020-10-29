@@ -1,0 +1,36 @@
+---
+title: test
+author: Liam
+output: pdf_document
+---
+jdksla;fjdksl
+
+**Bro**
+
+fuck
+ff
+
+* bullets
+* bullet2
+
+# Section Heading
+
+## Subsection
+
+image: ![](pg4dv6uiv7q31.jpg)
+
+### Subsubsection
+
+* bullet point
+* numba 2
+  + anotha
+
+> block quote
+
+> oh yeah
+
+$F = {ma_{i}}$
+
+[link](www.archlinux.org)
+
+*Italics*
