@@ -8,7 +8,6 @@
 
 [**Current B Term Notes**](https://github.com/lpgodin/Notes/tree/main/finished/BTERM)<br>
 
-
 ## What this is
 
-I use Neovim and rmarkdown in order to write my notes, and then I use a simple script in order to knit the files to pdf documents that I can use as note documents for my classes.
+I use Neovim and rmarkdown in order to write my notes, and then I use a simple [script (ln 88)](https://github.com/lpgodin/dots/blob/master/.config/nvim/init.vim) in order to knit the files to pdf documents that I can use as note documents for my classes.
