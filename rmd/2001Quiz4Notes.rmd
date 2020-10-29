@@ -1,0 +1,31 @@
+---
+Title: RBE 2001 Quiz 4 Notes
+output: pdf_document
+---
+
+# Spur Gear Terminology
+
+* Addendum circle - passes out at tips of teeth
+* Dedendum circle - passes through bottom land
+* pitch circle - imaginary, allows gears to mesh
+* base circle - generates curve profile of gear tooth
+
+* Addendum - Addendum to pitch circle
+* Dedendum - pitch circle to Dedendum circle
+
+*Diametral pitch P - defined as the number of teeth per inch of pitch diameter
+
+$P = N/d, P = {N_{p}}/{d_{p}}, P = {N_{g}}/{d_{g}}$
+
+Circular width of tooth is = $\Pi/2P$
+
+* Conjugate gear tooth action - action that allows the gears to maintain a constant ratio between the gears
+* Involute curves?
+* Usually talking about diameter of pitch circle when diameter is talked about
+	* pitch diameter used to determine center to center distance
+
+* Tangent line between base circles - Line of action of the force
+* Pressure angle $\Phi$ - angle between tangent line and horizontal
+
+* point of contact moves outwards on larger gear, and inwards on smaller gear 
+  * Follows tangent line of two base circles

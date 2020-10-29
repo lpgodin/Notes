@@ -1,0 +1,49 @@
+---
+Title: RBE 2001 HW 3
+output: pdf_document
+---
+
+# Liam Godin
+# 9/22/20
+# RBE 2001
+# HW 3
+
+${\omega_{2}} = 4 rad/sec$
+
+![](images/2001HW3.png)
+
+1. ${V_{A}}$ in inches/sec
+
+	${V_{A}} = (A{O_{2}}){\omega_{2}}$
+
+	${V_{A}} = (5 in) * (4 rad/sec) = 20.000 inches/sec$
+
+2. ${\omega_{3}}$ in rad/sec
+
+	${\omega_{3}} = {V_{A}}/ A{I_{1, 3}}$
+
+	${\omega_{3}} = 20/3.590 = 5.571 rad/sec$
+
+3. ${V_{B}}$ in inches/ sec
+
+   	${V_{B}} = (B{I_{1, 3}}){\omega_{3}}$
+
+	${V_{B}} = (6.375)*(5.571) = 35.515 inches/sec$
+
+4. ${\omega_{4}}$ in rad/sec
+
+   	${\omega_{4}} = {V_{B}}/B{O_{4}}$
+
+	${\omega_{4}} = 35.515/3 = 11.838 rad/sec$
+
+5. ${V_{C}}$ in inches/sec
+
+   	${V_{C}} = (C{I_{1, 3}}){\omega_{3}}$
+	
+	${V_{C}} = (2.854)*(5.571) = 15.899 inches/sec$
+
+
+
+
+![](images/2001HW31.png)
+![](images/2001HW32.png)

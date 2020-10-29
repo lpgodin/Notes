@@ -1,0 +1,39 @@
+---
+Title: 20200127 Exercises
+output: pdf_document
+---
+# 20200128 Exercises
+
+## Liam Godin
+
+# Page 2 exercise 1
+
+* Line at a coffee shop
+* Pringles can
+* Stoplight
+* Line to get out of plane
+
+# Page 3 exercise 1
+
+	Ice Cream Cone Stack
+
+	add Chocolate Ice Cream
+	Stack -> 'Chocolate'
+
+	add Vanilla Ice Cream
+	Stack -> 'Vanilla' -> 'Chocolate'
+
+	add Strawberry Ice Cream
+	Stack -> 'Strawberry' -> 'Vanilla' -> 'Chocolate'
+
+	eat()
+	return Strawberry
+	Stack -> 'Vanilla' -> 'Chocolate'
+
+	eat()
+	return Vanilla
+	Stack -> 'Chocolate'
+
+	eat()
+	return Chocolate
+	Stack -> empty
