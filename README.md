@@ -5,6 +5,7 @@
 ### 2020 Classes
 
 [**Finished A Term Notes**](https://github.com/lpgodin/Notes/tree/main/finished/ATERM)<br>
+
 [**Current B Term Notes**](https://github.com/lpgodin/Notes/tree/main/finished/BTERM)<br>
 
 
