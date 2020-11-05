@@ -1,0 +1,8 @@
+---
+title: "Basic Template"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
