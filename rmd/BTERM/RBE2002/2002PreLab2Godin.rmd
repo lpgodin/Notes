@@ -1,0 +1,36 @@
+---
+title: "RBE 2002 Pre Lab 2"
+author: Liam Godin
+date: "`r Sys.Date()`"
+output:
+    pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+### 1.
+* Average supply current of IR: $I_{CC} = 30 mA$
+* Working current of Sonar: 15 mA
+
+### 2.
+![]("../../../images/BTERM/RBE2002/2002PreLab2Graph.png")
+
+### 3.
+$d = T\frac{340 M/S}{2}$
+
+### 4. 
+        int ultrasonicMedian(floata, float b, float c, float d, float e) {
+            sort(a,b);
+            sort(d,e);
+            sort(a,c);
+            sort(b,c);
+            sort(a,d);
+            sort(c,d);
+            sort(b,e);
+            sort(b,c);
+
+            return c;
+        }
+
+### 5.
+![]("../../../images/BTERM/RBE2002/2002PreLab2Diagram.png")
