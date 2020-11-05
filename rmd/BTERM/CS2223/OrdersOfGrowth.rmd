@@ -1,0 +1,31 @@
+---
+Title: Orders of Growth, Mathematically
+author: Liam Godin
+output: pdf_document
+---
+
+# A1 Q4: Orders of Growth, Mathematically
+
+## Liam Godin
+
+### Lowest - Highest order of growth
+
+1. $\frac{1}{n}~=$
+2. $log_{2}n$
+3. $n^{0.51}$
+4. $12\sqrt{n}$
+5. $50n^{0.5}$
+6. $n log_{2} n$
+7. $n^2 - 324$
+8. $n^{log_{2}n}~=$
+9. $2^{32}n~=$
+10. $2x^3~=$
+11. $100x^2 + 6x~=$
+12. $3^n~=$
+
+`= means that the order of complexity is very similar`
+
+### Visual Plotting of Functions
+
+![]("../../../images/BTERM/CS2223/OrdersOfGrowth.png")
+

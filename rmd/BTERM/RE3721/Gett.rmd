@@ -19,5 +19,3 @@ output: pdf_document
 * Elisha didn't even know Viviane smoked cigarettes
 
 * The hair??
-
-

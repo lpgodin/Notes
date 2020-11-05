@@ -1,0 +1,15 @@
+---
+title: "RE 3721 Notes"
+author: "Liam Godin"
+date: "11/3/2020"
+output: pdf_document
+---
+
+## What's going on in the text?:
+
+### Ranit and Shlomi
+
+* Brother and sister duo, sister is in it
+
+
+## 
