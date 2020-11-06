@@ -1,0 +1,40 @@
+---
+title: "Alumni Relations Minutes"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+**Attendance:**
+
+Trevor
+
+Victor Paiz
+
+Vrandol Perez
+
+Eli Doggart
+
+**Late:**
+
+Jake Mercier (Absolutely not excused + summoned)
+
+* Krell went against the Jedi way
+* Victor loves this committee
+  * Trevor doesn't think that Victor can handle this committee
+* Trevor doesn't know who else would do alumni committee
+* Watching video Trevor was shown in high school
+
+# MEETING STARTS
+
+* Unsure of committee chair for C term
+  * Has to help new members with committee project
+    * Alumni game night Feb 7 - 14, planning Jan 31 - Feb 6
+* Omicron clam bake?
+* Alumni for Santa Pig
+* Trevor roasts Mercier's inferior tools
+
+![]("../images/mokey.jpg"){width=30%}
+
+* Rush is a lot right now
