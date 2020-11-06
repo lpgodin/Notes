@@ -1,0 +1,18 @@
+---
+title: "CS 2223 A1 Q5"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+## Descriptions of Algorithms
+
+* Bubble sort sorts data given to it by repeatedly exchanging adjacent elements if they are not in the correct order.
+    * Causes this to be a very slow algorithm for larger datasets.
+* Merge sort is a divide and conquer algorithm, dividing the input array in two halves, then recursively calls itself in order to continue this. The sorted arrays are then merged together.
+* Quick Sort is also a divide and conquer algorithm. Quick Sort uses the partition method in order to place all elements smaller than the first in the array before the lowest. It does the opposite for values larger than the low
+
+## Plotting of Algorithm Performances
+![]("../../../images/BTERM/CS2223/Bubble, Merge, and Quick Sort Against Varying Data Sample Sizes.png")

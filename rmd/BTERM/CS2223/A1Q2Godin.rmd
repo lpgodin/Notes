@@ -1,0 +1,20 @@
+---
+title: "CS 2223 A1 Q2"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+## Descriptions of Algorithms
+
+* Linear search iterates through the entirety of the list until it reaches the key specified.
+    * This causes Linear search to run extremely slowly when searching through large lists of data.
+* Binary search iterates through the list by dividing the search interval in half.
+    * If the search key is lower than the middle of the array, the search interval is decreased to only the lower half of the array. The opposite occurs if the search key is higher than the middle of the array
+* Recursive Binary Search iterates through the list of data in the same way as binary search, but when the interval is split, the function is called recursively in order to continue decreasing the search interval. 
+
+## Plotting of Algorithm Performances
+
+![]("../../../images/BTERM/CS2223/Linear, Binary, Binary Recursive Search Against Varying Sample Data Sizes.png")

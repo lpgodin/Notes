@@ -1,0 +1,21 @@
+---
+title: "Basic Template"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+* **Lilith:**
+    * A demon
+    * Made it into pop culture (Lilith Fair)
+* **The Talmud:**
+    * In order to get into temple you must wash and purify
+        * This changes after the second destruction of the temple
+    * 200 CE: Mishnah 
+        * Immigration causes fusion of philosophical ideas
+* **Two Creation Stories:**
+    * Second creation story directly reads that woman was made from man.
+    * First shows that woman and man were created at the same time with equal worth
+    * 
