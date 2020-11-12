@@ -1,0 +1,26 @@
+---
+title: "RBE 2002 Pre Lab 3: Collision Detection"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+1. ![]("../../../images/BTERM/RBE2002/Lab3StateDiagram.png")
+
+2.
+   - Linear acceleration sensitivity: 0.061
+   - Address: 110101xb
+
+3. $1440 \frac{count}{rev} * \frac{1 rev}{2\pi*35mm} * \frac{2\pi*140mm}{4} = 360 counts$
+
+4. Several source and header files are used in order to organize code based on classes and in this case components of the robot. This file structure also creates security, as it allows classes to have private variables and public methods to keep values in individual classes. 
+
+5. A header guard is used in order to prevent multiple definitions of functions or classes from occurring due to header files being included multiple times. This is done through a check at the top of a header file for whether or not the header file has already been included. 
+
+6. Object oriented program is a programming type that utilizes classes and objects in order to solve problems. Classes are written in order to create data for an object that will be initialized when the Class' constructor is called. 
+7. 
+   - Allows for simple editing of data organized as objects
+   - Keeps code separate in an easy to understand way
+   - Helps with separating robot into parts for easier writing
