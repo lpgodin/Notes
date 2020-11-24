@@ -1,0 +1,20 @@
+---
+title: "RE 2732 Notes"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+## Formation
+
+We listened to formation and now we're talking about the significance of it in the context of colonialism and power
+
+## Super Bowl Performance
+
+Unofficial black Panther outfits
+
+### We talking about black panthers
+
+Bodies are important in black culture because of the way that they have been appropriated

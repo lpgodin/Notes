@@ -1,0 +1,10 @@
+---
+title: "A2 Q3: Heap By Hand"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+![]("../../../images/BTERM/CS2223/Heap By Hand.png")
