@@ -1,0 +1,17 @@
+---
+title: "Stuff to take home in December"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+* DAC/ AMP
+* Desktop Speakers
+* Enough coffee stuff to make it at home
+* PS4
+* Bass?
+    * Maybe just the amp
+* Short sleeves/ shorts
+* 

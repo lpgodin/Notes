@@ -1,0 +1,147 @@
+---
+title: "MA2071 Lecture 1"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+# Why is Linear Algebra important?
+
+* It arises from the study of linear equations
+
+Example in dimension 1
+
+solve 
+
+$ax = b$
+
+where a, x, b are in R
+
+and x is the unknown
+
+$x = \frac{b}{a}$, if a != 0
+
+if a = 0 $0 * x = b$
+
+if b = 0, 0 * x = 0
+
+x is any number in R.
+
+if b != 0, 0 * x = b
+
+incompatible, there are no solutions
+
+In Dimension 2
+
+solve
+
+$a_{11} x_1 + a_{12} x_2 = b_1$
+
+$a_{21} x_1 + a_{22} x_2 = b_2$
+
+The unknowns are $x_1$ and $x_2$ in R
+the unknown is $(x_1, x_2) in R^2$
+
+Graphical interpretation
+
+Assume that 
+
+$(a_{11}, a_{12}) != (0,0)$
+and $(a_{21} x_1 + a_{22} x_2 = b_2$
+
+and the equations of 2 
+
+two lines $L_1 and L_2$ in the $x_1 x_2$ plane
+
+solving this system is the same as finding the intersection of L_1 and L_2
+
+These 2 lines can be such that there is one intersection point, both lines are parallel, and both lines are the same $(L_1 = L_2)$. In this case there are infinitely many solutions and the set of solutions is the set of points $(x_1, x_2) on L_1 = L_2$
+
+For a systematic approach to all cases in all dimensions, we need linear algebra.
+
+dimension n = 3 these equations with n = 3 unknowns may be related to the physical space $R^3$ 
+
+n = 4 physical space and another dimension for time
+
+cases where n may be >= 3 or 4
+* an optimization 
+
+problem where n variables need to be optimized
+
+* Find a numerical approximization to a differential equation for the unknown function x(t)
+
+approximate x(t) at n points in time $t_1$, ... , $t_n$.
+
+In some scientific computations, n could be very large n ~= $10^4 or 10^6$
+
+## A systematic approach to solving linear equations:
+
+### Example
+
+$x_1 + 5x_2 = 7$
+$-2x_1 - 7x_2 = -5$
+
+eliminate $x_1$ in the second equation by adding 2* first equation
+
+$x_1 + 5x_2 = 7$
+$3x_2 = 9$
+
+$x_2 = 3$
+
+back substitution
+
+$x_1 + 15 = 7$
+$x_2 = 3$
+
+
+### A wrong way to solve this system
+
+Starting from
+
+$x_1 + 5x_2 = 7$
+$-2x_1 - 7x_2 = -5$
+
+$=> 3x_2 = 9 => x_2 = 3$
+$=> x_1 + 15 = 7$
+$=> x_1 = 8$
+
+Solve 
+
+$x_1 + 5x_2 = 7$
+$-2x_1 - x_2 = -5$
+
+Write this system in matrix form
+
+1       5       7
+
+-2      -7      -5
+
+
+$R_2 + 2R_1 -> R_1$
+
+1       5       7
+
+0       3       9
+
+$\frac{R_3}{3} -> R_3$
+
+1       5       7
+
+0       1       3
+
+$R_1 - 5R_2 -> R_1$
+
+1       0    |   -8
+0       1    |   3
+
+$x_1 = -8$
+$x_2 = 3$
+
+### We have used elementary operations on rows 
+
+1. Add to one row a multiple of another row
+   (Replacement)
+2. Multiply a row by a non zero number (Scaling)
+3. Interchange (interchanging 2 rows)

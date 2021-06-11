@@ -1,0 +1,41 @@
+---
+title: "ECE 2029 Final Project Notes/ Outline"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+# Introduction/ Goal of project
+
+* an ALU (Arithmetic Logic Unit) is one of the three main parts of a CPU along with memory and a control unit
+* and ALU is the part of the CPU that does all arithmetic and logical operations
+* In this project, a 4 bit ALU is designed in Verilog and implemented on an FPGA board
+  * Can perform different types of arithmetic and logical operations on any 2 variables
+    * performs operation based on a 4 bit code given by the control unit
+  * Can perform the following:
+    * Addition, subtraction, multiplication and division ( Arithmetic )
+    * AND, NAND, OR, NOR, NOT, XOR, XNOR ( bitwise logic )
+    * Shifting operations ( left shift, right shift )
+    * Incrementing Operations
+  
+# Design/ Block Diagram (Spend most time here)
+* ALU has 8 inputs and 5 outputs. 
+  * 4 of the 5 outputs are the 4 bits showing the result of the operation
+* ALU consists of two units (Arithmetic and Logic)
+  * Arithmetic executes arithmetic operations, and the Logic executes logical operations and shift operations
+  * These two units contain each individual module for every operation
+    * based on the 4 selection lines, one of these modules will be used in order to complete the operation
+
+# Individual blocks with inputs and outputs and their function
+* Adder - A full-Adder circuit is utilized in this implementation, with A, B, and Carry in as inputs, and Sum, Carry out as outputs.
+* A full subtractor is utilized with similar inputs and outputs to the adder. The difference in inputs is the Borrow in and Borrow out bits
+* AND Gate - This is implemented as a basic logic gate with A, B as inputs and Y as an output. 
+* NOT Gate - another basic logic gate with A as an input and Y as an output
+* Increment and Decrement Operators - either adds or subtracts one from the operand. Single input, A, and single output Y
+* Shift operators - shifts operand by a user given number of bits. Input is both the operand and the number of bits to be shifted. There is a single output, the operand
+
+# Design Results
+
+## Waveform

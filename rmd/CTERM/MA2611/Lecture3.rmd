@@ -1,0 +1,96 @@
+---
+title: "Basic Template"
+author: "Liam Godin"
+date: "`r Sys.Date()`"
+output: pdf_document
+fontsize: 12pt
+geometry: margin=1in
+---
+
+# Data Is Collected From Either A Population Or a Sample
+
+**Population**
+
+All the items or individuals about which you want to draw conclusions.
+
+**Sample**
+
+A portion of the population of items or individuals.
+
+# Collection Data Via Sampling is Used When doing So Is
+
+* Less time consuming than selecting every item in the population
+
+* Less costly than using entire population
+
+* Less cumbersome and more practical than analyzing the entire population
+
+* Statistical theory guarantees that there is almost no need to study the whole population when sample is "good" and "big" enough.
+
+# Parameter or Statistic?
+
+* A **population parameter** summarizes the value of a specific variable for a population.
+
+* A **sample statistic** summarizes the value of a specific variable for sample data
+
+# Sources of Data Arise From the Following Activities
+
+* business activities
+* Distributing data compiled by an organization or individual
+* compiling responses from a survey
+* Conducting a designed experiment and recording the outcomes
+* Conducting an observational study and recording the results
+
+# Examples of Data Collected From Ongoing Business Activities
+
+* A bank studies years of financial transactions to help them identify patterns of fraud
+* Economists utilize data on searches done via Google to help forecast future economic conditions
+* Marketing companies use tracking data to evaluate the effectiveness of a web site
+
+# Examples of Data Distributed By an Organization or Individual
+
+* Financial data on a company provided by investment services
+* Industry or market data from market research firms and trade associations
+* Stock prices, weather conditions, and sports statistics in daily newspapers
+
+# Examples of Survey Data
+
+* A survey asking people which laundry detergent has the best stain-removing abilities
+* Political polls of registered voters during political campaigns
+* People being surveyed to determine their satisfaction with a recent product or service experience
+
+These are "snapshots" of data compiled from surveys
+
+# Examples of Data from a Designed Experiment
+
+A Designed experiment entails conditions or "treatment groups"
+
+* Consumer testing of different versions of a product to help determine which product should be pursued further
+* Material testing to determine which supplier's material should be used in a product
+* Market testing on alternative product promotions to determine which promotion to use more broadly. 
+
+# Examples of Data Collected form Observational Studies
+
+* Market researchers utilizing focus groups to elicit unstructured responses to open-ended questions
+* Measuring the time it takes for customers to be served in a fast food establishment
+* Measuring the volume of traffic through an intersection to determine if some form of advertising at the intersection is justified
+
+# Observational Studies & Designed Experiments Have a Common Objective
+
+* Both are attempting to quantify the effect that a **process change** (called a **treatment**) has on a variable of interest.
+* In an observational study, there is no direct control over which items receive the treatment.
+* In a designed experiment, there is direct control over which items receive the treatment
+
+
+# Sources of Data
+
+* Primary Sources: The data collector is the one using the data for analysis:
+  * Data from a political survey
+  * Data collected from an experiment
+  * Observed data
+
+* Secondary Sources: The person performing the data analysis is not the data collector:
+  * Analyzing census data
+  * Examining data from print journals or data published on the internet
+
+
